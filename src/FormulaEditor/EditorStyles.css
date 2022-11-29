@@ -1,0 +1,11 @@
+i{
+    font-style: normal;
+}
+
+.react-dropdown-tree-select .dropdown .dropdown-trigger {
+    border: none;
+}
+
+div.typesContainer {
+    overflow-y: visible;
+}
